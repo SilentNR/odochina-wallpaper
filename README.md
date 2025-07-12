@@ -2,7 +2,7 @@
 
 wallpapers from [odochina](https://youtu.be/3-kI9rDwQ8E) offical video, uses [mpvpaper](https://github.com/GhostNaN/mpvpaper) and no GUI
 
-There 3 modes for Dual monitors setup (DP-1 and HDMI-A-1 in code) 
+There 3 modes for Dual monitors setup (uses DP-1 and HDMI-A-1 in code) 
 
 ## Installation
 
