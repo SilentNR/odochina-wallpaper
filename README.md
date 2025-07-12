@@ -8,7 +8,7 @@ There 3 modes for Dual monitors setup (uses DP-1 and HDMI-A-1 in code)
 
 1. Clone this repository:
 
-```git clone https://github.com/SilnetNR/odochina-wallpaper.git && cd odochina-wallpaper && chmod +x mpvpaper-odochina.sh```
+```git clone https://github.com/SilentNR/odochina-wallpaper && cd odochina-wallpaper && chmod +x mpvpaper-odochina.sh```
 
 ## Usage
 
