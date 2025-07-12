@@ -15,7 +15,7 @@ There 3 modes for Dual monitors setup (uses DP-1 and HDMI-A-1 in code)
  edit or create file ```nano ~/.config/mpv/mpv.conf```
  then paste ```loop-file=inf```
 
-3. Paste command into terminal to install:
+3. Paste command into terminal to install wallpapers:
 
  ```git clone https://github.com/SilentNR/odochina-wallpaper && cd odochina-wallpaper && chmod +x mpvpaper-odochina.sh```
 
