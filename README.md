@@ -12,7 +12,9 @@ There 3 modes for Dual monitors setup (uses DP-1 and HDMI-A-1 in code)
 
 ## Usage
 
-Run the launcher script in a terminal and follow the prompt:
+Run the launcher script in a terminal ```*/mpvpaper-odochina.sh``` 
+
+Follow the prompt:
 
 1 — Teto-inout + Miku-inout
 
