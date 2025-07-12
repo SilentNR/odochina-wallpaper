@@ -6,9 +6,18 @@ There 3 modes for Dual monitors setup (uses DP-1 and HDMI-A-1 in code)
 
 ## Installation
 
-1. Clone this repository:
+1. Install mpvpaper:
 
-```git clone https://github.com/SilentNR/odochina-wallpaper && cd odochina-wallpaper && chmod +x mpvpaper-odochina.sh```
+ ```yay -S mpvpaper``` (if using AUR)
+  
+2. Set mpvpaper to loop videos:
+ 
+ edit or create file ```nano ~/.config/mpv/mpv.conf```
+ then paste ```loop-file=inf```
+
+3. Paste command into terminal to install:
+
+ ```git clone https://github.com/SilentNR/odochina-wallpaper && cd odochina-wallpaper && chmod +x mpvpaper-odochina.sh```
 
 ## Usage
 
